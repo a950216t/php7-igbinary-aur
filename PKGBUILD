@@ -3,7 +3,7 @@
 # Contributor: David Runge <dvzrv@archlinux.org>
 
 _name=igbinary
-_phpversion=74
+_phpversion=7
 pkgname=php${_phpversion}-${_name}
 pkgver=3.2.7
 pkgrel=1
